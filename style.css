@@ -1,0 +1,154 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.Our-Style img{
+  width: 100%;
+}
+
+.menu li{
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: rgb(29, 29, 37);
+}
+
+.menu li a:hover{
+  color: rgb(6, 58, 10);
+}
+
+.sing-in{
+  padding: 10px 20px;
+  background-color: green;
+  border-radius: 40px;
+}
+
+.sing-in:hover{
+  background-color: black;
+}
+
+/**************************************/
+
+/*****************************
+   detalis section started
+*****************************/
+
+.row-width{
+  height: 160px;
+  
+}
+
+.text-ornage{
+  color: orangered;
+}
+
+.text-style{
+  color: green;
+
+}
+
+
+.header-img img{
+  width: 100%;
+}
+
+.btn-get-started{
+  background-color: #21b573;
+  padding:8px 15px ;
+  border: none;
+  border-radius: 30px;
+}
+
+.btn-get-started:hover{
+  background-color: black;
+}
+
+.card-style img{
+width: 20%;
+margin: 15px 0px;
+}
+.card-style{
+  border-radius: 5px;
+  box-shadow: -10px -10px 200px whitesmoke, 10px 10px 200px rgb(231, 229, 229);
+}
+
+/*************************************/
+
+
+
+/*----------contain bx-silder row-----------*/
+
+.main-row{
+  border: 1px solid #bdc3c7;
+  box-shadow: 10px 10px 100px #c2c4c5;
+  border-radius: 5px;
+}
+
+
+/*----------contain bx-silder row2-----------*/
+
+.main-row2{
+  border: 1px solid #8a8888;
+  box-shadow: -10px -10px 100px #ccc5c5, 10px 10px 50px rgb(207, 202, 202);
+  border-radius: 5px;
+}
+
+/*----------contain bx-silder row3-----------*/
+
+.main-row3{
+  border: 1px solid #858788;
+  box-shadow: 10px 10px 100px #e2e4e5;
+  border-radius: 5px;
+}
+
+
+.text-bolder{
+  font-weight: bolder;
+  font-style: italic;
+  color: #21b573;
+  margin-top: 100px;
+}
+
+.Courese-card img{
+  width: 90%;
+ border-radius: 10px 10px 10px 10px;
+  padding: 10px 0px 0px 25px;
+}
+
+.btn-get-start{
+  background-color: #21b573;
+  padding:5px 15px ;
+  border: none;
+  border-radius: 30px;
+  margin-bottom: 15px;
+}
+
+.btn-get-start:hover{
+  background-color: black;
+  transition: 0.5s;
+}
+
+.container-detalis{
+  margin-left: 30px;
+}
+
+/*************************************/
+
+.testimonial-img img {
+  width: 100%;
+}
+
+/*============================
+   Footer Section Start
+  =========================*/
+
+.container-100{
+  height: 280px;
+}
+
+.text-contain{
+  text-align: justify;
+}
